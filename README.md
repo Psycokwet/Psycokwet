@@ -3,6 +3,7 @@
 <a href="https://www.npmjs.com/~scarboni">
   <img align="left" alt="Sophie Carboni | NPM" width="20px" src="https://raw.githubusercontent.com/Psycokwet/Psycokwet/main/npm-icon.svg" />
 </a>
+<br/>
 
 - 🔭 I’m currently working on bassaudio-updated and bassaudio-updated-light, my npm packages
 - 🌱 I’m currently learning Material-ui, React, Electron
