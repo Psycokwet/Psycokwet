@@ -1,7 +1,7 @@
 ### Hi there I am Psycokwet 👋
 
 <a href="https://www.npmjs.com/~scarboni">
-  <img align="left" alt="Sophie Carboni | NPM" width="20px" src="https://raw.githubusercontent.com/Psycokwet/Psycokwet/main/Npm-logo.svg" />
+  <img align="left" alt="Sophie Carboni | NPM" width="20px" src="https://raw.githubusercontent.com/Psycokwet/Psycokwet/main/npm-icon.svg" />
 </a>
 
 - 🔭 I’m currently working on bassaudio-updated and bassaudio-updated-light, my npm packages
