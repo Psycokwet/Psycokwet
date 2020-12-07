@@ -1,3 +1,17 @@
+### Hi there I am Psycokwet 👋
+
+<a href="https://www.npmjs.com/~scarboni">
+  <img align="left" alt="Sophie Carboni | NPM" width="20px" src="https://commons.wikimedia.org/wiki/File:Npm-logo.svg" />
+</a>
+- 🔭 I’m currently working on bassaudio-updated and bassaudio-updated-light, my npm packages
+- 🌱 I’m currently learning Material-ui, React, Electron
+- 📫 How to reach me: socarboni@gmail.com
+- 😄 Pronouns: They/them
+- ⚡ Fun fact: I'm a seamstress on my free time !
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&count_private=true&show_icons=true)
 <!--### Hi there 👋
 **Psycokwet/Psycokwet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,12 +34,3 @@ Here are some ideas to get you started:
 </a>
 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&count_private=true&show_icons=true)
-
-- 🔭 I’m currently working on bassaudio-updated and bassaudio-updated-light, my npm packages
-- 🌱 I’m currently learning Material-ui, React, Electron
-- 📫 How to reach me: socarboni@gmail.com
-- 😄 Pronouns: They/them
-- ⚡ Fun fact: I'm a seamstress on my free time !
