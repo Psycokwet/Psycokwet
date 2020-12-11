@@ -14,6 +14,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&theme=dark&show_icons=true&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&theme=dark&count_private=true&show_icons=true)
+
+<div align="center">
+                          ______                  ______                          
+                     _.-**      **-._        _.-**      **-._                      
+                   ./                *.    .*                \.                  
+                 ./                    *  *                    \.                
+   ______-------*                       \/                       *-------______      
+    *-._                                                                  _.-*  
+        *-._                                                          _.-*      
+            *--_                                                  _--*           
+                *\                                              /*               
+                 *\                                            /*                 
+                   *.                                        .*                  
+                     *._                                  _.*                    
+                        *.                              .*                      
+                          *.                          .*                        
+                          /                            \                        
+                         /      _.*-.._    _..-*._      \                       
+                        /    _.*       *..*       *._    \                      
+                       /  _.*                        *._  \                     
+                      /_.*                              *._\                    
+                     /*                                    *\    
+</div>
+
 ```                                                   
                           ______                  ______                          
                      _.-**      **-._        _.-**      **-._                      
