@@ -11,9 +11,9 @@
 - 😄 Pronouns: They/them
 - ⚡ Fun fact: I'm a seamstress on my free time !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&theme=dark&show_icons=truehide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&theme=dark&show_icons=true&hide=Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&count_private=true&show_icons=true)
+![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&theme=dark&count_private=true&show_icons=true)
 <!--### Hi there 👋
 **Psycokwet/Psycokwet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
