@@ -22,7 +22,7 @@
                   _.-**      **-._        _.-**      **-._                      
                 ./                *.    .*                \.                  
               ./                    *  *                    \.                
-.______-------*                       \/                       *-------______      
+______-------*                       \/                       *-------______      
  *-._                                                                  _.-*  
      *-._                                                          _.-*      
          *--_                                                  _--*           
@@ -40,6 +40,7 @@
                   /*                                    *\                    
                       
  ```
+ </div>
 <!--### Hi there 👋
 **Psycokwet/Psycokwet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
