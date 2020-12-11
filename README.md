@@ -16,6 +16,7 @@
 ![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&theme=dark&count_private=true&show_icons=true)
 
 <div align="center">
+```    
                           ______                  ______                          
                      _.-**      **-._        _.-**      **-._                      
                    ./                *.    .*                \.                  
@@ -36,6 +37,8 @@
                        /  _.*                        *._  \                     
                       /_.*                              *._\                    
                      /*                                    *\    
+
+```    
 </div>
 
 ```                                                   
