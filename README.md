@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&theme=dark&show_icons=true&hide=Makefile,Python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&theme=dark&count_private=true&show_icons=true)
+[![HEART OUT](https://github-readme-stats.vercel.app/api?username=Psycokwet&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
