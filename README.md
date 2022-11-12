@@ -10,6 +10,9 @@
 - 📫 How to reach me: socarboni@gmail.com
 - 😄 Pronouns: They/them
 - ⚡ Fun fact: I'm a seamstress on my free time !
+- 📕 Bonus: I'm an author, follow me on LinkedIn or on medium to see what I do !
+- https://medium.com/@socarboni
+- https://www.linkedin.com/in/socarboni/recent-activity/shares/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psycokwet&theme=dark&show_icons=true&hide=Makefile,Python&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
